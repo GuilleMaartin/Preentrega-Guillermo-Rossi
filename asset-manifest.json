@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Preentrega1-Guillermo-Rossi/static/css/main.37931676.css",
+    "main.js": "/Preentrega1-Guillermo-Rossi/static/js/main.d83639e4.js",
+    "static/js/787.bc7d429a.chunk.js": "/Preentrega1-Guillermo-Rossi/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/Preentrega1-Guillermo-Rossi/index.html",
+    "main.37931676.css.map": "/Preentrega1-Guillermo-Rossi/static/css/main.37931676.css.map",
+    "main.d83639e4.js.map": "/Preentrega1-Guillermo-Rossi/static/js/main.d83639e4.js.map",
+    "787.bc7d429a.chunk.js.map": "/Preentrega1-Guillermo-Rossi/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37931676.css",
+    "static/js/main.d83639e4.js"
+  ]
+}
