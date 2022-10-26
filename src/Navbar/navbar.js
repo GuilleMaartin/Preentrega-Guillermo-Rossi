@@ -19,10 +19,7 @@ function Navbar() {
               <CartWidget/> 
           </div>
 
-
-
           <div className='header-json'>
-          /*tuve problemas para traer la class a partir de ItemListContainer*/
               <div className="header-center">
                 {Apiautos.map((modelo, i) => (
                     <ItemListContainer key={i}
